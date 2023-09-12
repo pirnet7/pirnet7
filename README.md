@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pirnet7.pirnet7&"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋, I'm Pirnet7</h1>
 
 ###
