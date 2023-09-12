@@ -74,18 +74,6 @@
 
 <br clear="both">
 
-<h3 align="left">🐍 Just For Fun</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pirnet7/pirnet7/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <p align="center">🎉 My Visitors</p>
 
 ###
