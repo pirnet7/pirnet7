@@ -1,6 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=282a35&text=Input%20text&section=header&fontColor=7ed2f0&textBg=false" />
 <h1 align="left">Hey there, I'm pirnet7 👋</h1>
-
 ###
 
 <p align="left">My name is pirnet7 and I'm from Switzerland.</p>
@@ -67,9 +66,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=pirnet7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pirnet7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-<img src="https://raw.githubusercontent.com/pirnet7/pirnet7/output/snake.svg" alt="Snake animation" />
-
 
 ###
 
